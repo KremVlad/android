@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidKremV9</string>
+    <string name="cat_food">Кот голоден</string>
+    <string name="cat_eating">Кот ест</string>
+</resources>
